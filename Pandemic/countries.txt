@@ -1,0 +1,48 @@
+San Francisco-blue-50-305-Chicago-Los Angeles
+Chicago-blue-135-271-San Francisco-Los Angeles-Atlanta-Toronto
+Toronto-blue-210-270-Chicago-New York-Washington
+Atlanta-blue-178-326-Chicago-Washington-Miami
+Washington-blue-260-326-New York-Toronto-Atlanta-Miami
+London-blue-403-218-New York-Essen-Madrid-Paris
+New York-blue-283-268-Toronto-Washington-Madrid-London
+Madrid-blue-398-303-New York-Sao Paulo-Algiers-London-Paris
+Paris-blue-464-262-London-Essen-Milan-Algiers-Madrid
+Essen-blue-484-198-London-St. Petersburg-Milan-Paris
+Milan-blue-523-247-Essen-St. Petersburg-Istanbul-Paris
+St. Petersburg-blue-560-186-Essen-Moscow-Istanbul-Milan
+Los Angeles-yellow-69-365-San Francisco-Chicago-Mexico City
+Mexico City-yellow-138-393-Los Angeles-Chicago-Miami-Bogota-Lima
+Lima-yellow-188-517-Mexico City-Bogota-Santiago
+Miami-yellow-238-380-Bogota-Mexico City-Atlanta-Washington
+Bogota-yellow-228-442-Miami-Mexico City-Lima-Buenos Aires-Sao Paulo
+Santiago-yellow-214-599-Lima
+Buenos Aires-yellow-285-590-Sao Paulo-Bogota
+Sao Paulo-yellow-328-533-Buenos Aires-Bogota-Madrid-Lagos
+Lagos-yellow-465-427-Sao Paulo-Kinshasa-Khartoum
+Kinshasa-yellow-507-486-Lagos-Khartoum-Johannesburg
+Johannesburg-yellow-545-549-Kinshasa-Khartoum
+Khartoum-yellow-560-425-Johannesburg-Kinshasa-Lagos-Cairo
+Algiers-black-470-345-Madrid-Paris-Istanbul-Cairo
+Istanbul-black-550-294-Milan-Moscow-Baghdad-Cairo-Algiers-St. Petersburg
+Cairo-black-537-365-Algiers-Istanbul-Baghdad-Riyadh-Khartoum
+Moscow-black-610-228-St. Petersburg-Tehran-Istanbul
+Tehran-black-660-277-Moscow-Delhi-Baghdad-Karachi
+Baghdad-black-608-324-Istanbul-Tehran-Karachi-Riyadh-Cairo
+Riyadh-black-616-395-Karachi-Baghdad-Cairo
+Karachi-black-666-344-Mumbai-Riyadh-Baghdad-Tehran-Delhi
+Mumbai-black-679-418-Karachi-Delhi-Chennai
+Delhi-black-729-316-Tehran-Karachi-Mumbai-Kolkata-Chennai
+Kolkata-black-786-346-Delhi-Chennai-Bangkok-Hong Kong
+Chennai-black-735-452-Mumbai-Delhi-Kolkata-Bangkok-Jakarta
+Beijing-red-817-252-Shanghai-Seoul
+Seoul-red-900-255-Beijing-Shanghai-Tokyo
+Shanghai-red-832-319-Beijing-Seoul-Tokyo-Taipei-Hong Kong
+Tokyo-red-964-293-Seoul-Shanghai-Osaka
+Osaka-red-958-353-Tokyo-Taipei
+Taipei-red-912-375-Osaka-Shanghai-Hong Kong-Manila
+Hong Kong-red-837-375-Kolkata-Bangkok-Shanghai-Taipei-Ho Chi Minh City
+Bangkok-red-790-417-Kolkata-Hong Kong-Chennai-Ho Chi Minh City-Jakarta
+Ho Chi Minh City-red-850-446-Jakarta-Bangkok-Hong Kong-Manila
+Jakarta-red-798-490-Chennai-Bangkok-Ho Chi Minh City-Sydney
+Manila-red-930-460-Sydney-Ho Chi Minh City-Hong Kong-Taipei
+Sydney-red-970-578-Jakarta-Manila
