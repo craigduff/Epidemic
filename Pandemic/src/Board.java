@@ -5,12 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.Random;
 public class Board {
-/*
- * NOTE TO SELF
- * 
- * LOL
- * 
- */
+
 	//game stats
 	int outbreaks = 0;
 	static int infectionRateCounter = 0;
